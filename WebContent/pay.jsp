@@ -66,11 +66,7 @@
 												<button type="submit" class="btn-wide btn btn-success">查詢</button>
 												
 										</div>
-<<<<<<< HEAD
-										
-										
-=======
->>>>>>> 9f719bd9ead9ce39d760eecab4e83c8df96a78f6
+
 									</form>
 									<div id="memberGender" class="text-center" style="margin-left: 26px;">
 											客戶性別： 
@@ -114,7 +110,7 @@
 								<div class="totalPrice" id="totalPrice"></div>
 								<div class="totalPriceButton">
 									
-									<button type="button" class="btn-wide btn btn-success" onclick="payListToJSON()">送出</button>
+									<button type="button" class=" btn-wide btn btn-success" onclick="payListToJSON()">送出</button>
 									<button type="button" class="mr-2 btn-icon btn-icon-only btn btn-outline-danger" onclick="cleanPayAll()">清除</button>
 									<h5 class="text-center">${success}</h5>
 								</div>
